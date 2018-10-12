@@ -6467,9 +6467,9 @@ header {
     font-size: 3rem; }
 
 footer {
-  background: #020238;
+  background: #15151f;
   color: #ffffff; }
-  footer h5 {
+  footer h6 {
     text-transform: uppercase;
     color: #ffffff;
     font-weight: bolder;
@@ -6485,20 +6485,20 @@ footer {
       color: gray;
       text-decoration: none; }
   footer form .input-group input {
-    background: #040469;
+    background: #2a2a3d;
     border: 0px;
-    border-bottom: 2px solid #ffffff; }
+    border-bottom: 1px solid #15151f; }
   footer form .input-group .input-group-append button {
-    background: #040469;
+    background: white;
     border: 0px;
-    border-bottom: 2px solid #ffffff; }
+    border-bottom: 2px solid #15151f; }
   footer p span {
-    background: #ffffff;
-    border: 1px solid blue;
-    color: blue;
-    padding: .5rem 2rem;
+    background: #15151f;
+    border: 1px solid #bfbbbb;
+    color: dark;
+    padding: 10px 10px;
     margin-right: 1rem; }
   footer hr {
-    border: 2px solid #ffffff; }
+    border: 0.4px solid #ffffff; }
 
 /*# sourceMappingURL=main.css.map */

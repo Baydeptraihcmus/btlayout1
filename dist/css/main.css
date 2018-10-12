@@ -6437,14 +6437,14 @@ header {
     .bestsaler .owl-carousel .item .detail figure {
       padding: 0rem; }
       .bestsaler .owl-carousel .item .detail figure img {
-        margin-left: 3.8rem;
-        width: 70%; }
+        margin-left: 4rem;
+        width: 65%; }
     .bestsaler .owl-carousel .item .detail button {
       background: #ffffff;
-      color: blue;
-      border: 2px solid blue;
-      padding: 1rem 5rem;
-      font-size: 19px; }
+      color: #000000;
+      border: 2px solid #000000;
+      padding: 1rem 4rem;
+      font-size: 20px; }
   .bestsaler .owl-carousel .owl-nav .owl-prev {
     width: 5rem;
     height: 5rem;
